@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bull": "^4.16.5",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "ioredis": "^5.10.1"
+  }
+}
